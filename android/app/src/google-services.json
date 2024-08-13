@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439568483841",
+    "project_id": "fcmmessage-e2431",
+    "storage_bucket": "fcmmessage-e2431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439568483841:android:31a1693b03bc3e3fe4e200",
+        "android_client_info": {
+          "package_name": "com.example.fcmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0_sPvNn6pukUD3q_PuYtu7R3Rvf4THU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
