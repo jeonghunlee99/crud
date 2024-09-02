@@ -14,5 +14,6 @@ main.dart: 애플리케이션의 진입점이며, Firebase 초기화 및 Firesto
 Firestore에 연결하여 사용자 데이터를 관리하고, StreamBuilder를 통해 실시간으로 사용자 목록을 표시.
 
 ## 사용된 패키지 📦
-firebase_core: Firebase 초기화를 위한 패키지.
-cloud_firestore: Firebase Firestore와의 통합을 위한 패키지로, Firestore CRUD 작업을 수행할 수 있음.
+[firebase_core](https://pub.dev/packages/firebase_core) : Firebase 초기화를 위한 패키지.
+
+[cloud_firestore](https://pub.dev/packages/cloud_firestore) : Firebase Firestore와의 통합을 위한 패키지로, Firestore CRUD 작업을 수행할 수 있음.
